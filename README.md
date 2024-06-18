@@ -1,3 +1,6 @@
+# Metacrafter-Avalanche-Module2
+This is my project of module 2 of avalanche given to me by Metacrafters where i edited a template of a simple atm model.
+The changes made in initial template ae listed below:
 1. Currency Conversion
 
 Added functionality to convert ETH balance to USD using CoinGecko API.
