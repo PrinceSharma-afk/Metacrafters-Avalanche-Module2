@@ -41,13 +41,9 @@ Added the option to send a custom amount of ETH up to 5.
 Changed the frontend look.
 ## Help
 Ensure that you have sufficient Ethereum in your account for deployment and transactions. For further assistance, you can refer to the Hardhat documentation.
-## Authors
-Metacrafters Team
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 Ensure that you have sufficient Ethereum in your account for deployment and transactions. For further assistance, you can refer to the Hardhat documentation.
 ## Authors
 Prince Sharma
 sharmahprince@gmail.com
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
